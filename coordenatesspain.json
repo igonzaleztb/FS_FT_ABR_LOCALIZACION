@@ -1,0 +1,314 @@
+[
+  {
+    "ciudad": "a corunia",
+    "provincia": "a corunia",
+    "latitud": "0.4337012643",
+    "longitud": "-0.0839114853"
+  },
+  {
+    "ciudad": "albacete",
+    "provincia": "albacete",
+    "latitud": "0.3899588053",
+    "longitud": "-0.018557475"
+  },
+  {
+    "ciudad": "alicante / alacant",
+    "provincia": "alicante / alacant",
+    "latitud": "0.3834548705",
+    "longitud": "-0.004831832"
+  },
+  {
+    "ciudad": "almeria",
+    "provincia": "almeria",
+    "latitud": "0.3683892362",
+    "longitud": "-0.024641319"
+  },
+  {
+    "ciudad": "avila",
+    "provincia": "avila",
+    "latitud": "0.4065586958",
+    "longitud": "-0.046977128"
+  },
+  {
+    "ciudad": "badajoz",
+    "provincia": "badajoz",
+    "latitud": "0.3887874339",
+    "longitud": "-0.06970997"
+  },
+  {
+    "ciudad": "barcelona",
+    "provincia": "barcelona",
+    "latitud": "0.4138424664",
+    "longitud": "0.021763493"
+  },
+  {
+    "ciudad": "bilbao",
+    "provincia": "bilbao",
+    "latitud": "0.4325721957",
+    "longitud": "-0.029239061"
+  },
+  {
+    "ciudad": "burgos",
+    "provincia": "burgos",
+    "latitud": "0.4234113004",
+    "longitud": "-0.037041981"
+  },
+  {
+    "ciudad": "caceres",
+    "provincia": "caceres",
+    "latitud": "0.3947316762",
+    "longitud": "-0.063712109"
+  },
+  {
+    "ciudad": "cadiz",
+    "provincia": "cadiz",
+    "latitud": "0.3652171152",
+    "longitud": "-0.062841458"
+  },
+  {
+    "ciudad": "castellon de la plana / castello de la plana",
+    "provincia": "castellon de la plana / castello de la plana",
+    "latitud": "0.3998640809",
+    "longitud": "-0.000368814"
+  },
+  {
+    "ciudad": "ceuta",
+    "provincia": "ceuta",
+    "latitud": "0.3588810209",
+    "longitud": "-0.053067513"
+  },
+  {
+    "ciudad": "ciudad real",
+    "provincia": "ciudad real",
+    "latitud": "0.3898651781",
+    "longitud": "-0.039313198"
+  },
+  {
+    "ciudad": "cordoba",
+    "provincia": "cordoba",
+    "latitud": "0.3787954225",
+    "longitud": "-0.047803246"
+  },
+  {
+    "ciudad": "cuenca",
+    "provincia": "cuenca",
+    "latitud": "0.4007653762",
+    "longitud": "-0.021315231"
+  },
+  {
+    "ciudad": "girona",
+    "provincia": "girona",
+    "latitud": "0.4198186075",
+    "longitud": "0.02824119"
+  },
+  {
+    "ciudad": "granada",
+    "provincia": "granada",
+    "latitud": "0.3717641932",
+    "longitud": "-0.036000188"
+  },
+  {
+    "ciudad": "guadalajara",
+    "provincia": "guadalajara",
+    "latitud": "0.4063435548",
+    "longitud": "-0.031621027"
+  },
+  {
+    "ciudad": "huelva",
+    "provincia": "huelva",
+    "latitud": "0.3726004113",
+    "longitud": "-0.069504059"
+  },
+  {
+    "ciudad": "huesca",
+    "provincia": "huesca",
+    "latitud": "0.4214062739",
+    "longitud": "-0.004084228"
+  },
+  {
+    "ciudad": "jaen",
+    "provincia": "jaen",
+    "latitud": "0.3776519130",
+    "longitud": "-0.037903594"
+  },
+  {
+    "ciudad": "las palmas de gran canaria",
+    "provincia": "las palmas de gran canaria",
+    "latitud": "0.2809937855",
+    "longitud": "-0.154133684"
+  },
+  {
+    "ciudad": "leon",
+    "provincia": "leon",
+    "latitud": "0.4259912097",
+    "longitud": "-0.055670763"
+  },
+  {
+    "ciudad": "lleida",
+    "provincia": "lleida",
+    "latitud": "0.4161527355",
+    "longitud": "0.006206193"
+  },
+  {
+    "ciudad": "logronio",
+    "provincia": "logronio",
+    "latitud": "0.4246644945",
+    "longitud": "-0.024456554"
+  },
+  {
+    "ciudad": "lugo",
+    "provincia": "lugo",
+    "latitud": "0.4300912820",
+    "longitud": "-0.075581739"
+  },
+  {
+    "ciudad": "madrid",
+    "provincia": "madrid",
+    "latitud": "0.404169473",
+    "longitud": "-0.037057172"
+  },
+  {
+    "ciudad": "malaga",
+    "provincia": "malaga",
+    "latitud": "0.3672034267",
+    "longitud": "-0.044199751"
+  },
+  {
+    "ciudad": "melilla",
+    "provincia": "melilla",
+    "latitud": "0.3529473100",
+    "longitud": "-0.02942281"
+  },
+  {
+    "ciudad": "murcia",
+    "provincia": "murcia",
+    "latitud": "0.3798436361",
+    "longitud": "-0.011285408"
+  },
+  {
+    "ciudad": "ourense",
+    "provincia": "ourense",
+    "latitud": "0.4233654919",
+    "longitud": "-0.078636838"
+  },
+  {
+    "ciudad": "oviedo",
+    "provincia": "oviedo",
+    "latitud": "0.4336232165",
+    "longitud": "-0.058437221"
+  },
+  {
+    "ciudad": "palencia",
+    "provincia": "palencia",
+    "latitud": "0.4200783730",
+    "longitud": "-0.045346011"
+  },
+  {
+    "ciudad": "palma",
+    "provincia": "palma",
+    "latitud": "0.3957114699",
+    "longitud": "0.02651817"
+  },
+  {
+    "ciudad": "pamplona / irunia",
+    "provincia": "pamplona / irunia",
+    "latitud": "0.4281410200",
+    "longitud": "-0.016451528"
+  },
+  {
+    "ciudad": "pontevedra",
+    "provincia": "pontevedra",
+    "latitud": "0.4243381442",
+    "longitud": "-0.086479902"
+  },
+  {
+    "ciudad": "salamanca",
+    "provincia": "salamanca",
+    "latitud": "0.4096736822",
+    "longitud": "-0.056653808"
+  },
+  {
+    "ciudad": "san sebastian / donostia",
+    "provincia": "san sebastian / donostia",
+    "latitud": "0.4331717158",
+    "longitud": "-0.019819179"
+  },
+  {
+    "ciudad": "santa cruz de tenerife",
+    "provincia": "santa cruz de tenerife",
+    "latitud": "0.2846285408",
+    "longitud": "-0.162472063"
+  },
+  {
+    "ciudad": "santander",
+    "provincia": "santander",
+    "latitud": "0.4346297885",
+    "longitud": "-0.038047478"
+  },
+  {
+    "ciudad": "segovia",
+    "provincia": "segovia",
+    "latitud": "0.4094987030",
+    "longitud": "-0.041252412"
+  },
+  {
+    "ciudad": "sevilla",
+    "provincia": "sevilla",
+    "latitud": "0.3738620512",
+    "longitud": "-0.059925137"
+  },
+  {
+    "ciudad": "soria",
+    "provincia": "soria",
+    "latitud": "0.4176327912",
+    "longitud": "-0.02466248"
+  },
+  {
+    "ciudad": "tarragona",
+    "provincia": "tarragona",
+    "latitud": "0.4111910287",
+    "longitud": "0.012584219"
+  },
+  {
+    "ciudad": "teruel",
+    "provincia": "teruel",
+    "latitud": "0.4034412951",
+    "longitud": "-0.011092718"
+  },
+  {
+    "ciudad": "toledo",
+    "provincia": "toledo",
+    "latitud": "0.3985715187",
+    "longitud": "-0.040243142"
+  },
+  {
+    "ciudad": "valencia",
+    "provincia": "valencia",
+    "latitud": "0.3947534441",
+    "longitud": "-0.003756572"
+  },
+  {
+    "ciudad": "valladolid",
+    "provincia": "valladolid",
+    "latitud": "0.4165232777",
+    "longitud": "-0.047233492"
+  },
+  {
+    "ciudad": "vitoria-gasteiz",
+    "provincia": "vitoria-gasteiz",
+    "latitud": "0.4285058789",
+    "longitud": "-0.026727569"
+  },
+  {
+    "ciudad": "zamora",
+    "provincia": "zamora",
+    "latitud": "0.4149913956",
+    "longitud": "-0.057549483"
+  },
+  {
+    "ciudad": "zaragoza",
+    "provincia": "zaragoza",
+    "latitud": "0.4165645655",
+    "longitud": "-0.008792865"
+  }
+]
