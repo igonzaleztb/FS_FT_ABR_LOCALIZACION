@@ -168,4 +168,4 @@ function searchCity() {
 
  ```
  
- ![Mapa](  ./assets/map.png  "Leaflet")
+ ![Mapa](  ./assets/map.PNG  "Leaflet")
